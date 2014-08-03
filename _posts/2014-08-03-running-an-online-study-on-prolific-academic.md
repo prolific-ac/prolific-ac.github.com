@@ -17,7 +17,9 @@ tags: [study, documentation,firststeps]
  <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/1a.png">
 <h2>(2) Topping Up Your Account</h2>
 <p>After you have calculated the study cost, you will need to top up your account, which you can easily do by credit card. Just enter the amount by which you would like to top up your account, and click the green button “pay with card”. The following window will appear prompting you for your credit card details:</p>
-<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/2a.png">
+<div class="row col-md-offset-3">
+<img class="col-md-6 " style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/2a.png">
+</div>
 <h2>(3) Setting Up Your Study</h2>
 <p>As soon as you have successfully topped up your account, go to "Create New Study". Here, you have two options: "General Settings" (required) and "Advanced Settings" (optional):</p>
 <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/3a.png">
