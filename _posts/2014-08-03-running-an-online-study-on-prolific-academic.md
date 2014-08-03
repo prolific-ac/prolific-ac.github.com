@@ -4,7 +4,7 @@ layout: post
 title: "Running an online study on Prolific Academic"
 description: ""
 category: 
-tags: []
+tags: [study, documentation,firststeps]
 ---
 {% include JB/setup %}
 
