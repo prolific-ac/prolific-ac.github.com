@@ -4,12 +4,45 @@ layout: page
 <!--title: Hello World!
 tagline: Supporting tagline
 -->
-{% for post in site.posts %}
-  {% unless post.draft %}
-  <li>
-    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-     {{ post.excerpt }}
-  </li>
+<div class="container content">		
+	<div class="row blog-page">    
+        <!-- Left Sidebar -->
+    	<div class="col-md-8 col-md-offset-2">
+            <!--Blog Post-->    
+            {% for post in site.posts %}
+			  {% unless post.draft %}
+			  <div class="blog margin-bottom-40">
+			  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			  <h4>{{ post.date | date: "%B %e, %Y" }}</h4> 
+			  <div class="blog-post-tags">
+                    <ul class="list-unstyled list-inline blog-info">
+                        <li><i class="fa fa-calendar"></i> {{ post.date | date_to_long_string }}</li>
+                        <li><i class="fa fa-pencil"></i> {{post.post_author}}</li>
+                        <li><i class="fa fa-comments"></i> <a href="#disqus_thread">24 Comments</a></li>
+                    </ul>
+                    <ul class="list-unstyled list-inline blog-tags">
+                        <li>
+                            <i class="fa fa-tags"></i> 
+                            {% for tag in post.tags %} 
+                            <!-- <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref">{{tag}}</a>  -->
+                            <a href="#">{{tag}}</a>
+                            {% endfor %}
+                            
+                        </li>
+                    </ul>                                                
+                </div>
+                <!-- <div class="blog-img">
+                    <img class="img-responsive" src="https://prolificacademic.co.uk/assets/img/posts/2.jpg" alt="">
+                </div> -->
+                 {{ post.content  | truncatewords:250}}
+                <p><a class="btn-u btn-u-small" href="{{ post.url }}"><i class="fa fa-plus-sign"></i>Read More</a></p>
+				</div>				  
+			  {% endunless %}
+			{% endfor %}   
+        </div>
+    </div>
+</div>
 
-  {% endunless %}
-{% endfor %}
+
+    
+    
