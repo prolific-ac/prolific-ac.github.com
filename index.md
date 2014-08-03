@@ -19,7 +19,7 @@ title: The Prolific Academic Blog
                 <ul class="list-unstyled list-inline blog-info">
                     <li><i class="fa fa-calendar"></i> {{ post.date | date_to_long_string }}</li>
                     <li><i class="fa fa-pencil"></i> {{post.post_author}}</li>
-                    <li><i class="fa fa-comments"></i> <a href="#disqus_thread"> Comments</a></li>
+                    <!-- <li><i class="fa fa-comments"></i> <a href="#disqus_thread"> Comments</a></li> -->
                 </ul>
                 <ul class="list-unstyled list-inline blog-tags">
                     <li>
