@@ -1,35 +1,29 @@
 ---
 post_author: Phelim Bradley
 layout: post
-title: "How to run a longitutinal study"
+title: "Running a longitutinal study"
 description: ""
 category: 
 tags: [longitudinal,study,documentation]
 ---
 {% include JB/setup %}
 
-This would be where text would go with instructions on how to run a longitudinal design! 
+<p>You can now run a longitutial design on Prolific! Here's some tips on how to get started. </p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h3> The first study in the series</h3>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p>
+You don't have to do anything different when setting up your first study. You can follow the instructions in <a href="{{ site.url }}/2014/08/03/running-an-online-study-on-prolific-academic/">"Running an online study on Prolific Academic"</a>. </p>
 
-###title 
+<p>If you have multiple conditions make sure that you record the participant IDs of the participants who are assigned to each condiditon. </p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h3> The follow up studies</h3>
+<p>When the first study is complete you can get the participant IDs of the relevant participants by clicking "Export Data" from your dashboard. You'll need these when setting up the rest of the studies in the series. </p>
 
+<p>After filling out all the required information you would for any other study click on the "Advanced Setting" tab on the "Create New Study" page. Scroll down to the "White List" section. Add the participant IDs of the participants you want to be able to take part in this follow up study. </p>
+<div class="row col-md-offset-2">
+<img class="col-md-8" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="{{ site.url }}/assets/img/2014-08-03-how-to-run-a-longitutinal-study/WhiteList.png">
+</div>
+<p><i><b>ONLY</b></i> these participants will be able to take part in this study. They will automatically be emailed with an invitation to take part. </p>
+<p>If you have multiple conditions and if you want to keep these condidtions consistent between studies you will need to set up a seperate study for each condidtion and add only those participants you want to be elligible to the "White List".  </p>
+<p> That's it! If you have any questions feel free to comment below or contact us at <a href="mailto:info@prolificacademic.co.uk">info@prolificacademic.co.uk</a></p>
