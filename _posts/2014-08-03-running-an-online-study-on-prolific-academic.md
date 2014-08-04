@@ -14,7 +14,9 @@ tags: [study, documentation,firststeps]
 
 <h2> (1) Calculating Your Study Cost</h2>
 <p>After you’ve logged in, go to “Dashboard” and then to "Account" and use the study cost calculator to determine what your study will cost:</p>
- <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/1a.png">
+<div class="row col-md-offset-2">
+ <img class="col-md-8" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="{{ site.url }}/assets/img/2014-08-03-running-an-online-study-on-prolific-academic/1a.png">
+</div>
 <h2>(2) Topping Up Your Account</h2>
 <p>After you have calculated the study cost, you will need to top up your account, which you can easily do by credit card. Just enter the amount by which you would like to top up your account, and click the green button “pay with card”. The following window will appear prompting you for your credit card details:</p>
 <div class="row col-md-offset-3">
@@ -44,23 +46,16 @@ Please note: you will have to create a study code, e.g. “CEBEGPROLIFIC1”, wh
 <p>This is how your study will look to participants. Your survey will be integrated into the Prolific Academic website, so there’s no need to open a new window:</p>
 <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/5b.png">
 <h2>(6) Review Study Submissions</h2>
-<p>When you go to “Manage Studies”, you will be able to keep track of all your studies. Here, you will find three sections: a) Studies in Progress, b) Studies Ready for Review, and c) Finished Studies:</p>
-<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6a.png">
+<p>When you go to “Manage Studies”, you will be able to keep track of all your studies. Here, you will find your latest study under: Studies in Progress</p>
+<!-- <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6a.png">
 <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6b.png">
-<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6c.png">
+<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6c.png"> -->
 <p>Under “Studies in Progress”, you will find the study you have just posted. The progress bar below will indicate how many participants have started and completed your study (it will refresh every few seconds). You can even share your study with others by clicking on the Twitter icon. In case you would like to, you may terminate your study anytime by clicking the “stop this study” button.</p>
-<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6d.png">
-<p>…50% of participants have completed your study…:</p>
-<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6e.png">
-<p>…100% of participants have completed your study! You have finished data collection</p>
-<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6f.png">
-<p>Now, the completed study will be ready for review. To review participants, you are recommended to check your survey data (via the survey software you use) for gaps and unreasonable responses. After you’ve checked your data, click on the orange button below (“Your study is complete. Click here to review”)</p>
-<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6g.png">
-<p>Now, you will see a list of participants ready to be reviewed. The default will be on “accept”. However, if you are dissatisfied with some of your data, it lies at your discretion to reject certain study submissions. The participant ID helps you identify whose study submission to accept or to reject.</p>
+<img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="{{ site.url }}/assets/img/2014-08-03-running-an-online-study-on-prolific-academic/6d.png">
 
+<p> You can review your participants at any time by clicking "manage participants"</p>
 
-
-
+<p>Now, you will see a list of participants ready to be reviewed. If you are dissatisfied with some of your data, it lies at your discretion to reject certain study submissions. The participant ID helps you identify whose study submission to accept or to reject.</p>
 
 <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6i.png">
 <p>If you decide to reject someone’s work, you will be prompted to give a reason for the rejection. We deem this an important step to maintain trust and understanding between researchers and participants. Prolific Academic will always automatically republish rejected assignments so new participants can complete your study and you do not have missing data:</p>
