@@ -61,3 +61,4 @@ Please note: you will have to create a study code, e.g. “CEBEGPROLIFIC1”, wh
 <p>If you decide to reject someone’s work, you will be prompted to give a reason for the rejection. We deem this an important step to maintain trust and understanding between researchers and participants. Prolific Academic will always automatically republish rejected assignments so new participants can complete your study and you do not have missing data:</p>
 <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="https://prolificacademic.co.uk/assets/img/hiwr/6j.png">
 <p>As soon as you have reviewed (i.e. approved or rejected) your participants, you are finished! Enjoy analysing your data.</p>
+<p> If you have any questions feel free to comment below or contact us at <a href="mailto:info@prolificacademic.co.uk">info@prolificacademic.co.uk</a></p>
