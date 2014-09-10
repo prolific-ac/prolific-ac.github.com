@@ -1,5 +1,5 @@
 ---
-post_author: Phelim Bradley
+post_author: Phelim
 layout: post
 title: "Running an online study on Prolific Academic"
 description: ""

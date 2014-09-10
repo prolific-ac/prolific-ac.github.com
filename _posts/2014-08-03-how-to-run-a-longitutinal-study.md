@@ -1,5 +1,5 @@
 ---
-post_author: Phelim Bradley
+post_author: Phelim
 layout: post
 title: "Running a longitutinal study"
 description: ""

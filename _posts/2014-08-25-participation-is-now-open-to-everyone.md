@@ -1,5 +1,5 @@
 ---
-post_author: Phelim Bradley
+post_author: Phelim
 layout: post
 title: "Participation in Prolific studies is now open to everyone."
 description: ""
