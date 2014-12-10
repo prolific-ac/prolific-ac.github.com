@@ -14,7 +14,7 @@ tags: [efficient, prescreening, documentation]
 </div>
 
 <br>
-We have some delightful news for researchers: Soon you will be able to flexibly recruit participants based on any demographic you are looking for. Yes, that's right: We're moving beyond the default demographics that are stored in our system (gender, age, country of birth, nationality, ethnicity, native language, student status). 
+We have some delightful news for researchers: Soon you will be able to flexibly recruit participants based on any demographic you are looking for. Yes, that's right: We're moving beyond the default demographics that are stored in our system (gender, age, country of birth, nationality, ethnicity, native language). 
 
 In the future, you can request <b>any demographic</b> from us and our software will be able to <b>efficiently prescreen</b> our existing participant pool for you. In other words, we are taking away your hassle of running prescreening studies! :-)
 
