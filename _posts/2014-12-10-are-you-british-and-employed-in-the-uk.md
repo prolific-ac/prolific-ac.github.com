@@ -1,12 +1,17 @@
 ---
 post_author: Phelim Bradley
 layout: post
-title: "Are you British and employed in the UK? <br> <h2>Donate 5 minutes to help science and a charity</h2>"
+title: "Are you a British employee? <br> Donate 5 minutes to help science and a charity"
 description: ""
 category: 
 tags: [science, charity, crowdsourcing, society]
 ---
 {% include JB/setup %}
+
+<div class="row">
+ <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/charity.jpg">
+</div>
+
 <br>
 Here's the deal: Take part in a scientific online study (80p for 5mins) by a researcher from <a href="http://www.rsm.nl/home/">Rotterdam School of Management, Erasmus University</a>, and we'll donate the proceeds from this study to charity! We'll donate not only your 80p (if you choose to), but also our earnings from this study!
 
