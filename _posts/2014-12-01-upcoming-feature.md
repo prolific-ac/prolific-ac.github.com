@@ -19,7 +19,7 @@ We have some delightful news for researchers: Soon you will be able to flexibly 
 In the future, you can request <b>any demographic</b> from us and our software will be able to <b>efficiently prescreen</b> our existing participant pool for you. In other words, we are taking away your hassle of running prescreening studies! :-)
 
 For example: 
-Let's assume you're aiming to collect responses from female employees in the UK who work part-time. To achieve this, all you need to do is get in touch with us and tell us about your eligibility requirements. We will then prescreen our pool via Prolific, and deliver our prescreening results to you in a couple of days. You can then go ahead and run your study with the specified participants only. 
+Let's assume you're aiming to collect responses from female employees in the UK who work part-time. To achieve this, all you need to do is to login on Prolific, and screen our pool for your eligibility requirements. Our new software will allow you to do this very easily from your laptop, and you won't even have to contact us. If our pool can deliver the sample size you require, you can then go ahead and run your study with the specified participants only. 
 
 Prescreening made easy. On Prolific.
 
