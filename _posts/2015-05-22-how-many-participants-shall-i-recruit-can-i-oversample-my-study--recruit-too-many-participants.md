@@ -39,8 +39,4 @@ tags: [study, sample size, statistical power]
 <div class="row col-md-offset-2"><blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/herzoghal">@herzoghal</a> <a href="https://twitter.com/BrianNosek">@BrianNosek</a> <a href="https://twitter.com/jpsimmon">@jpsimmon</a> <a href="https://twitter.com/ekadamer">@ekadamer</a> If you want to know if there is an effect or not, I&#39;d recommend <a href="http://t.co/6PYcpoQhZq">http://t.co/6PYcpoQhZq</a></p>&mdash; Daniël Lakens (@lakens) <a href="https://twitter.com/lakens/status/592375124701126656">April 26, 2015</a></blockquote></div>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<p>Ah, and always remember: We are here for you. The next time you ask yourself: "Where shall I recruit all these participants that my power analysis is dictating?", we'll be here, lending you a hand. Crowdsourcing for science. Via #ProlificAcademic.</p>
-
-<p>PS:</p>
-<div class="row col-md-offset-2"><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">To err is human. To err repeatedly is research.</p>&mdash; Shit Academics Say (@AcademicsSay) <a href="https://twitter.com/AcademicsSay/status/596291095056617472">May 7, 2015</a></blockquote></div>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>Ah, and always remember: We are here for you. The next time you ask yourself: "Where shall I recruit all these participants that my power analysis is dictating?", we'll be here, lending you a hand. </p>
