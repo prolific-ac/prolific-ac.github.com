@@ -7,7 +7,7 @@ title: The Prolific Academic Blog
     <!-- Left Sidebar -->
 	<div class="col-md-8 col-md-offset-2">
     <div class="page-header">
-        <h1>The Prolific Academic Blog</h1>
+        <h1 style="font-family: 'Century Gothic'">The Prolific Academic Blog</h1>
     </div>
         <!--Blog Post-->    
         {% for post in site.posts %}
