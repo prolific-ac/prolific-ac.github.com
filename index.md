@@ -7,13 +7,13 @@ title: The Prolific Academic Blog
     <!-- Left Sidebar -->
 	<div class="col-md-8 col-md-offset-2">
     <div class="page-header">
-        <h1>The Prolific Academic Blog</h1>
+        <h1 style="font-family: 'Century Gothic'">The Prolific Academic Blog</h1>
     </div>
         <!--Blog Post-->    
         {% for post in site.posts %}
 		  {% unless post.draft %}
 		  <div class="blog margin-bottom-40">
-		  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		  <h2><a style="font-family: 'Century Gothic'" href="{{ post.url }}">{{ post.title }}</a></h2>
 		  <h4>{{ post.date | date: "%B %e, %Y" }}</h4> 
 		  <div class="blog-post-tags">
                 <ul class="list-unstyled list-inline blog-info">

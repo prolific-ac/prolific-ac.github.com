@@ -8,7 +8,7 @@ tags: [study, sample size, statistical power]
 ---
 {% include JB/setup %}
 <p></p>
-<h2>Cofounder Katia shares what she learned from experts on Twitter</h2>
+<h2 style="font-family: 'Century Gothic'">Cofounder Katia shares what she learned from experts on Twitter</h2>
 <p><br>As a PhD student in Psychology I often face the question: How many participants shall I recruit? The standard way of determining the required sample size for a study is to run a power analysis (usually done with <a href="http://www.macupdate.com/app/mac/24037/g-power">G*Power</a>; R lovers use the <a href="http://www.statmethods.net/stats/power.html">pwr package</a>). Calculating the required sample size involves knowing the effect size of the effect you're investigating. However, it is often difficult to estimate the true effect size, especially if the research is cutting-edge and there's no previous work giving you a clue. Therefore, I felt it was reasonable to follow this rule of thumb: the higher the sample size, the better.</p>
 
 <p>However, more recently I've overheard fellow academics say that one can *oversample* a study. Oversample a study? Does that mean that it is possible to recruit too many participants? My statistical intuition tells me that there can never be enough participants/data points: the higher the n, the higher the likelihood of detecting the true size of the effect. Being somewhat puzzled, I've decided to tackle this issue head on by asking some experts via Twitter.</p>

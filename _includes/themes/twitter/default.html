@@ -1,66 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">
+<!-- Web Fonts -->
+    <link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <!-- CSS Global Compulsory -->
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/style.css">
 
-    <!-- Le styles -->
-    <!-- <link href="{{ ASSET_PATH }}/css/1.4.0/bootstrap.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
- -->
+    <!-- CSS Header and Footer -->
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/headers/header-default.css">
+    <!-- <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/footers/footer-v1.css"> -->
 
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/animate.css">
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/line-icons/line-icons.css">
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/fancybox/source/jquery.fancybox.css">
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/revolution-slider/rs-plugin/css/settings.css" type="text/css" media="screen">
+    <!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/revolution-slider/rs-plugin/css/settings-ie8.css" type="text/css" media="screen"><![endif]-->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://prolificacademic.co.uk/assets/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://prolificacademic.co.uk/assets/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://prolificacademic.co.uk/assets/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://prolificacademic.co.uk/assets/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://prolificacademic.co.uk/assets/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://prolificacademic.co.uk/assets/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://prolificacademic.co.uk/assets/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://prolificacademic.co.uk/assets/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" href="https://prolificacademic.co.uk/assets/favicon-196x196.png" sizes="196x196">
+    <link rel="icon" type="image/png" href="https://prolificacademic.co.uk/assets/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="https://prolificacademic.co.uk/assets/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://prolificacademic.co.uk/assets/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://prolificacademic.co.uk/assets/favicon-32x32.png" sizes="32x32">
+    <meta name="msapplication-TileColor" content="#00a300">
+    <meta name="msapplication-TileImage" content="https://prolificacademic.co.uk/assets/mstile-144x144.png">
     <!-- Meta -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Want a faster iteration between developing theory and executing studies? We enable you to draw on students' workforce while students earn extra cash.">
     
     <meta name="author" content="Prolific Academic">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-
-    <meta name="keywords" content="researcher " /> 
-    <meta name="copyright" content="Prolific Academic Ltd" /> 
-    <meta name="robots" content="INDEX,FOLLOW" /> 
-    <meta name="language" content="en" /> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="researcher " />
+    <meta name="copyright" content="Prolific Academic Ltd" />
+    <meta name="robots" content="INDEX,FOLLOW" />
+    <meta name="language" content="en" />
     <!-- <meta name="viewport" content="width=100" />  -->
-
     <!-- CSS Global Compulsory-->
     <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/style.css">
-    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/headers/header1.css">
+    <!-- <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/headers/header1.css"> -->
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/headers/header-default.css">
     <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/responsive.css">
-    <link rel="shortcut icon" href="/favicon.ico">        
-    <!-- CSS Implementing Plugins -->    
-    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/font-awesome/css/font-awesome.css">
+    <!-- CSS Implementing Plugins -->
     <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/line-icons/line-icons.css">
     <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/sky-forms/version-2.0.1/css/custom-sky-forms.css">
-    <!-- <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/flexslider/flexslider.css">      -->
-    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/parallax-slider/css/parallax-slider.css">
-    <!-- CSS Theme -->    
+    <!-- CSS Theme -->
     <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/themes/default.css" id="style_color">
     <!-- Google Font for Logo -->
     <link href='https://fonts.googleapis.com/css?family=Telex' rel='stylesheet' type='text/css'>
     <meta name="google-site-verification" content="zj-gEWIUUTALmcd-thRNQGeBV94GSpXcNcjKkp4rxSY" />
-    <link rel="shortcut icon" href="https://prolificacademic.co.uk/assets/favicon.ico" />
     <!--<script type="text/javascript" src="https://prolificacademic.co.uk/assets/plugins/jquery-1.10.2.min.js"></script>-->
-
     <!-- bootstrap -->
-    <script src="https://prolificacademic.co.uk/assets/plugins/jquery-2.0.3.min.js"></script> 
-   <script src="https://prolificacademic.co.uk/assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
-
-
+    <script src="https://prolificacademic.co.uk/assets/plugins/jquery-2.0.3.min.js"></script>
+    <script src="https://prolificacademic.co.uk/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <link href="https://prolificacademic.co.uk/assets/plugins/bootstrap3-editable/css/bootstrap-editable.css" rel="stylesheet">
     <script src="https://prolificacademic.co.uk/assets/plugins/bootstrap3-editable/js/bootstrap-editable.js"></script>
     <script src="https://prolificacademic.co.uk/assets/js/xedit.js"></script>
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/plugins/brand-buttons/brand-buttons.css">
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/plugins/brand-buttons/brand-buttons-inversed.css">
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/sky-forms/version-2.0.1/css/custom-sky-forms.css">
+    
+    <link type="text/css" href="https://prolificacademic.co.uk/assets/bootstrap/css/bootstrap-timepicker.min.css" />
+    
+    
+    <!-- Latest compiled and minified CSS -->
+    <!-- <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/fuelux/fuelux.min.css"> -->
+    <!-- Latest compiled and minified JavaScript -->
+    <!--  <script src="https://prolificacademic.co.uk/assets/plugins/fuelux/fuelux.min.js"></script>-->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//www.fuelcdn.com/fuelux/3.4.0/css/fuelux.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//www.fuelcdn.com/fuelux/3.4.0/js/fuelux.min.js"></script>
+    <script src="https://prolificacademic.co.uk/assets/plugins/alertify/lib/alertify.min.js"></script>
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/alertify/themes/alertify.core.css" />
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/alertify/themes/alertify.default.css" />
+    
+        <script src="https://fb.me/react-0.13.3.min.js"></script>
+    
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/plugins/parallax-slider/css/parallax-slider.css">
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/footers/footer-v1.css">   
 
+    <link rel="stylesheet" href="https://prolificacademic.co.uk/assets/css/pages/page_misc_sticky_footer.css"> 
     <!-- Blog Specific -->
     <link href="{{ ASSET_PATH }}/css/1.4.0/blog.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/font-awesome/css/font-awesome.min.css">
 
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -77,104 +111,80 @@
   </head>
 
   <body>
-<div class="top">
-    <div class="container">         
-        <ul class="loginbar pull-right">  
-               
-            
-        </ul>
-    </div>      
-</div>
-<div class="header">
-    <div class="navbar navbar-default" role="navigation">
+<div class="wrapper page-option-v1">
+    <div class="header">
         <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="fa fa-bars"></span>
-                </button>
-
-                <div class="row">
-                <a class="navbar-brand" style="line-height: 50px;margin-bottom:10px;"href="/">
+            <!-- Logo -->
+            <a class="logo" href="http://prolific.ac">
+                <img id="logo-header" height="58px" src="https://prolificacademic.co.uk/assets/img/NewLogo_02_2015.png" alt="Prolific Academic">
+            </a>
+            <!-- End Logo -->
+            <!-- Topbar -->
+            <div class="topbar">
+                <ul class="loginbar pull-right">
                     
-                        
-                           <!--  Prolific Academic height="75px"-->
-<!--                         <div class="col-md-6">
- -->                            <img id="logo-header" height="110px" src="https://prolificacademic.co.uk/assets/img/logo_no2_phelimedit.png" alt="Prolific Academic">
-                        <!-- </div> -->
-                        
+                        <li> <a href="https://prolificacademic.co.uk/dashboard">Account</a></a></li>
+                        <li class="topbar-devider"></li>                     
+                    <li><a href="https://prolificacademic.co.uk/contact">Contact Us</a></li>
                     
-                </a>
+                </ul>
+            </div>
+            <!-- Toggle get grouped for better mobile display -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="fa fa-bars"></span>
+            </button>
+            <!-- End Toggle -->
+        </div><!--/end container-->
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
+                <div class="container">
+                    <ul class="nav navbar-nav">
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <li >
+                        <a href="https://prolificacademic.co.uk/" >
+                            Home
+                        </a>
+                        </li>
+                        <li class="dropdown"  >
+                            <a  href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" >
+                            About </a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="https://prolificacademic.co.uk/about/prolific">About Prolific</a></li>
+                                    <li><a href="https://prolificacademic.co.uk/about/whatweoffer">What we offer</a></li>
+                                    <li><a href="https://prolificacademic.co.uk/about/pricing">Pricing</a></li>
+                                    <li><a href="https://prolificacademic.co.uk/about/pool">Participant demographics</a></li>
+                                    <li><a href="https://prolificacademic.co.uk/about/founders">The Prolific Team</a></li>
+                                </ul>
+                            </a>
+                        </li>
+                        <li  >
+                            <a href="https://prolificacademic.co.uk/studies" >
+                                Studies
+                            </a>
+                        </li>
+                        <li  >
+                            <a href="https://prolificacademic.co.uk/dashboard" >
+                                Dashboard
+                            </a>
+                        </li>
+                        <li class="active">
+                            <a  href="http://blog.prolificacademic.co.uk" >
+                                Blog
+                            </a>
+                        </li>
+                    </ul>
                 </div>
             </div>
+        </div>
+    </div><!-- /navbar-collapse -->
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-responsive-collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li >
-                        <a href="https://prolificacademic.co.uk" >
-                            Home
-                            
-                        </a>
-
-                    </li>
-                     <li  >
-                        <a href="https://prolificacademic.co.uk/about" >
-                            About
-                        </a>
-                        
-                    </li>
-                    <li >
-                        <a href="https://prolificacademic.co.uk/studies" >
-                            Studies
-                        </a>
-                    </li>
-                    <li  >
-                        <a href="https://prolificacademic.co.uk/dashboard" >
-                            Dashboard
-                        </a>
-                    </li>
-                    <li class="active">
-                        <a  href="http://blog.prolificacademic.co.uk" >
-                            Blog
-                        </a>
-                    </li>
-                    <!-- <li>
-                        <a href="/faq">
-                            FAQ
-                        </a>
-
-                    </li> -->
-                <div class="search-open">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-btn">
-                            <button class="btn-u" type="button">Go</button>
-                        </span>
-                    </div><!-- /input-group -->
-                </div>                
-            </div><!-- /navbar-collapse -->
-        </div>    
-    </div>    
-</div>
+    
+    
 
     <div class="container content">
         {{ content }}
     </div>
-<div class="copyright navbar navbar-fixed-bottom">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 ">                      
-                <p class="copyright-space">
-                    2014 Prolific Academic | <a href="https://prolificacademic.co.uk/bestpractices">Best Practices</a> | <a href="https://prolificacademic.co.uk/tac">Terms and Conditions</a> | <a href="https://prolificacademic.co.uk/faq">FAQ</a> 
-                </p>
-            </div>
-        </div><!--/row-->
-    </div><!--/container--> 
-</div>
-
-    </div> <!-- /container -->
 
     {% include JB/analytics %}
   </body>
