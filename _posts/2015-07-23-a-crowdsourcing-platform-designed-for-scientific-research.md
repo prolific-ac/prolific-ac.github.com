@@ -9,7 +9,9 @@ tags: [crowdsourcing, science, research]
 {% include JB/setup %}
 
 <div class="row">
- <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/LeanBack.jpg">
+	<div class="col-md-12">
+ 		<img class="img-responsive col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/LeanBack.jpg">
+	 </div>
 </div>
 
 <p><br>As a junior psychological scientist I am constantly looking for ways to recruit participants. While I have used online recruitment platforms in the past with reasonable success, I’ve always mused about some of the obvious drawbacks. Why is it so hard to prescreen? How on earth do they permit this exploitative reward structure (or rather <i>lack</i> of reward structure)? Why are some still in beta after 10 years?</p>
