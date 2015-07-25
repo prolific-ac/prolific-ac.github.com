@@ -45,10 +45,11 @@ tags: [crowdsourcing, science, research]
 <p style="text-align: center;"><iframe width="420" height="315" src="https://www.youtube.com/embed/eOlJCN7VnGQ?rel=0" frameborder="0" allowfullscreen></iframe></p>
 
 <p style="text-align: center;">(Thanks, Andy!)</p>
- 
-<p>If you're looking for an alternative to MTurk and would like to give Prolific a try, then you can run your first £10 study <a href="https://prolificacademic.co.uk/rr?ref=5ZFZ276D">for free</a>. Plus, for a limited time, you can choose what commission you pay us. It can be as low as 0%. It's totally up to you!</p>
- 
- 
+<div class="embed-responsive embed-responsive-16by9">
+	<p>If you're looking for an alternative to MTurk and would like to give Prolific a try, then you can run your first £10 study <a href="https://prolificacademic.co.uk/rr?ref=5ZFZ276D">for free</a>. Plus, for a limited time, you can choose what commission you pay us. It can be as low as 0%. It's totally up to you!</p>
+</div>
+	 
+	 
 
 
 
