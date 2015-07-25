@@ -22,7 +22,7 @@ You don't have to do anything different when setting up your first study. You ca
 
 <p>After filling out all the required information (as you would for any other study) click on the "Prescreening" tab. Scroll down to the "White List" section. Add the participant IDs of the participants you want to be able to take part in this follow up study. </p>
 <div class="row col-md-offset-2">
-<img class="col-md-8" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="{{ site.url }}/assets/img/2014-08-03-how-to-run-a-longitutinal-study/WhiteList.png">
+<img class="img-responsive col-md-8" style="display: block;margin-left: auto;margin-right: auto;margin-top:15px;margin-bottom:15px;" src="{{ site.url }}/assets/img/2014-08-03-how-to-run-a-longitutinal-study/WhiteList.png">
 </div>
 <p><i><b>ONLY</b></i> these participants will be able to take part in this study. They will automatically be emailed with an invitation to take part. </p>
 <p>If you have multiple conditions and if you want to keep these condidtions consistent between studies you will need to set up a seperate study for each condidtion and add only those participants you want to be eligible to the "White List".  </p>

@@ -10,7 +10,7 @@ tags: [efficient, prescreening, documentation]
 
 <h2 style="margin-top:10px">Flexibly filter participants by *any* demographic (not just our default ones)</h2>
 <div class="row">
- <img class="col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/Efficient1.jpg">
+ <img class="img-responsive col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/Efficient1.jpg">
 </div>
 
 <br>
