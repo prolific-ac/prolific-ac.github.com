@@ -10,4 +10,4 @@ tags: []
 
 Hi,
 
-We're down for a but of server maintenance. We'll be back up ASAP! Check back soon. 
+We're down for a bit of server maintenance. We'll be back up ASAP! Check back soon. 
