@@ -8,6 +8,12 @@ tags: [Method bias]
 ---
 {% include JB/setup %}
 
+<div class="row">
+	<div class="col-md-12">
+ 		<img class="img-responsive col-md-12" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/work-station-straight-on-view.jpg">
+	 </div>
+</div>
+
 <br><br>
 A concern that often arises among researchers who run studies with single-source, self-report, cross-sectional designs is that of common method bias (also known as common method variance). Specifically, the concern is that when the same method is used to measure multiple constructs, this may result in spurious method-specific variance that can bias observed relationships between the measured constructs (Schaller, Patil, & Malhotra, 2015). Before we dive into the types of bias that may result from using a single method, we will first give an overview of what we mean by ‘method’.
 
@@ -26,7 +32,7 @@ Method factors can inflate, deflate, or have no effect on the observed relations
 
 ## How can you optimize your research design to reduce common method bias?
 
-One crucial mechanism through which common method bias arises is decreased motivation (or sometimes a lack of ability) for participants to respond accurately and an increased tendency for participants to engage in satisficing. Listed below are a few procedural remedies Podsakoff et al., 2012 propose to reduce satisficing:
+One crucial mechanism through which common method bias arises is decreased motivation (or sometimes a lack of ability) for participants to respond accurately and an increased tendency for participants to engage in [satisficing]({% post_url 2015-07-29-minimising-noise-and-maximising-your-data-quality-the-case-of-satisficing %}). Listed below are a few procedural remedies Podsakoff et al., 2012 propose to reduce satisficing:
 
 ### 1. Add a temporal, proximal, or psychological separation when measuring your independent (predictor) and dependent (criterion) variables
 
