@@ -1,5 +1,5 @@
 ---
-post_author: Katia
+post_author: Ekaterina Damer
 layout: post
 title: "A Crowdsourcing Platform Designed for Scientific Research"
 description: ""
