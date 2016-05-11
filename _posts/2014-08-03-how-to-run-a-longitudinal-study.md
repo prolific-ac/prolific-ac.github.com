@@ -8,7 +8,7 @@ tags: [longitudinal,study,documentation]
 ---
 {% include JB/setup %}
 
-<p>You can now run a longitudinal design on Prolific! Here's some tips on how to get started. </p>
+<p>You can now run a longitudinal design on Prolific! Here are some tips on how to get started. </p>
 
 <h3> The first study in the series</h3>
 
