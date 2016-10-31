@@ -65,7 +65,7 @@ tags: [science, research, crowdsourcing, internet, zombie science, halloween]
 
 <h2>Intriguing Directions for Future Research</h2>
 
-<p><font size="4">If you're interested in learning more about science and the scientific method, then we highly recommend the following sources (some are biased towards psychology because that's what most of our team were trained in):</a></font></p><br> 
+<p><font size="4">If you're interested in learning more about science and the scientific method, then we highly recommend the following sources (some are biased towards psychology because that's what most of our team were trained in):</font></p><br> 
 
 <h3>Media</h3>
 
@@ -98,4 +98,4 @@ tags: [science, research, crowdsourcing, internet, zombie science, halloween]
 <h2> We wish you a Happy Halloween 2016, dear Prolific friends and science enthusiasts! 👻 🎃 🕸 <br><br>
 –Your Prolific Team</h2><br>
 
-<h3>PS: We always appreciate your comments and thoughts, so just shoot them!</font></h3>
+<h3>PS: We always appreciate your comments and thoughts, so just shoot them!</h3>
