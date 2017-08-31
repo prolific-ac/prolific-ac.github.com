@@ -6,8 +6,7 @@
 <h2>Some new rules for participant accounts</h2>
 
 <p><font size="4">We wanted to let you know in advance about some changes we’ll be rolling out soon for participant accounts.
-  
-</p>
+
   
 <p>  
 
