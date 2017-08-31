@@ -1,12 +1,4 @@
---
-post_author: Jim
-layout: post
-title: "Some new rules for participant accounts"
-description: ""
-category: 
-tags: [science, research, crowdsourcing, internet, participants]
----
-{% include JB/setup %}
+
 
 <br>
 <p><font size="4"></font></p>
