@@ -11,7 +11,7 @@ Our platform hosts real scientific research conducted by leading researchers and
 
 These changes will help to improve data quality for researchers and to improve the security of the platform for all participants.
 
-We don’t want to cause any unnecessary inconvenience for participants so we wanted to be clear about these changes and the reasons behind them,
+We don’t want to cause any unnecessary inconvenience for participants so we wanted to be clear about these changes and the reasons behind them.
 
 We’d also like to invite you to feedback and welcome other suggestions.
 </font></p>
