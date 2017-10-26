@@ -17,6 +17,7 @@ We want to build a brilliant community to power the world's research. To do this
 
 It’s early days and we want your feedback on how you think these features should evolve.
 
+</font>
 
 <h1> 👍 The new feedback feature </h1>
 
@@ -26,14 +27,20 @@ It’s early days and we want your feedback on how you think these features shou
 	 </div>
 </div>
 
+<font size="+1">
+
 At the end of every study that you complete, we’ll be collecting simple feedback from you, our participants, about your experience of taking the study.
 
 We’ll be analysing this to learn more about which studies go smoothly, and where you might encounter problems. This way we can investigate and follow up with researchers, discover technical issues, and provide feedback to researchers regarding studies that don’t go smoothly.
 
 Your feedback is anonymous, and won't be shared with the researcher directly. For now, we just ask you to give us a simple thumbs up / thumbs down at the end of every study. That’s all you need to do!
-
+</font>
 
 <h1> 🌟 The new participant Star feature </h1>
+
+
+<font size="+1">
+
 
 Prolific is a platform for real scientific research and our participants take this seriously, often going above and beyond in their diligence when completing studies. This is why we want to give researchers a way to say thanks to the best participants.
 
@@ -41,11 +48,16 @@ Each researcher now gets Stars to award optionally for really great submissions 
 
 On your account page, you will from now on see the Stars you’ve earned instead of the Prolific Score.
 
+</font>
+
 <div class="row">
 	<div class="col-md-12">
  		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/stars.png">
 	 </div>
 </div>
+
+<font size="+1">
+
 
 In addition, we’ll be starting to feature “participants of the month” on our blog. That is, each month we’ll pick a participant who has collected exceptionally many Stars and say thanks with a prize – a Prolific T-Shirt, which we’ll ship to wherever you currently are in the world!
 
