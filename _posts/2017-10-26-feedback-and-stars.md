@@ -7,7 +7,7 @@ category:
 tags: [participants, stars, feedback]
 ---
 
-<font size="+2">
+<font size="+1">
 
 We’ve been looking to find better ways for both researchers and participants to give feedback to us, and to each other, about how studies have gone. That way we can let each other know when we’re doing a good job and help address problems when we aren’t.
 
