@@ -7,7 +7,7 @@ category:
 tags: [participants, stars, feedback]
 ---
 
-
+<font size="+2">
 
 We’ve been looking to find better ways for both researchers and participants to give feedback to us, and to each other, about how studies have gone. That way we can let each other know when we’re doing a good job and help address problems when we aren’t.
 
@@ -48,3 +48,5 @@ On your account page, you will from now on see the Stars you’ve earned instead
 </div>
 
 In addition, we’ll be starting to feature “participants of the month” on our blog. That is, each month we’ll pick a participant who has collected exceptionally many Stars and say thanks with a prize – a Prolific T-Shirt, which we’ll ship to wherever you currently are in the world!
+
+</font>
