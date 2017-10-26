@@ -1,3 +1,14 @@
+---
+post_author: Jim Moodie
+layout: post
+title: "Feedback & Stars"
+description: ""
+category: 
+tags: [participants, stars, feedback]
+---
+
+
+
 We’ve been looking to find better ways for both researchers and participants to give feedback to us, and to each other, about how studies have gone. That way we can let each other know when we’re doing a good job and help address problems when we aren’t.
 
 We’d like to introduce two new features which we’ll be rolling out: Our feedback feature and our participant star feature. These are some first steps we’re taking towards better communication, so please let us know what you think. We’ll use your comments to help us improve our platform further.
