@@ -10,7 +10,7 @@ It’s early days and we want your feedback on how you think these features shou
 👍 The new feedback feature
 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_93C35E7C0F364A47AF371901715009C4E895B02CF6C0A6EE09F1396B7967609A_1508946365030_Feedback.png)
+![]
 
 
 At the end of every study that you complete, we’ll be collecting simple feedback from you, our participants, about your experience of taking the study.
