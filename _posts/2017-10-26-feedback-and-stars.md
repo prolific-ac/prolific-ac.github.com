@@ -9,9 +9,11 @@ It’s early days and we want your feedback on how you think these features shou
 
 👍 The new feedback feature
 
-
-![]
-
+<div class="row">
+	<div class="col-md-12">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/Feedback.png">
+	 </div>
+</div>
 
 At the end of every study that you complete, we’ll be collecting simple feedback from you, our participants, about your experience of taking the study.
 
@@ -28,6 +30,10 @@ Each researcher now gets Stars to award optionally for really great submissions 
 
 On your account page, you will from now on see the Stars you’ve earned instead of the Prolific Score.
 
-<SCREENSHOT OF AWARDING STARS HERE, I DON’T HAVE A GOOD ONE>
+<div class="row">
+	<div class="col-md-12">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/stars.png">
+	 </div>
+</div>
 
 In addition, we’ll be starting to feature “participants of the month” on our blog. That is, each month we’ll pick a participant who has collected exceptionally many Stars and say thanks with a prize – a Prolific T-Shirt, which we’ll ship to wherever you currently are in the world!
