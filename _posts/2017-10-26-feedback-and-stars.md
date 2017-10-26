@@ -18,7 +18,7 @@ We want to build a brilliant community to power the world's research. To do this
 It’s early days and we want your feedback on how you think these features should evolve.
 
 
-## 👍 The new feedback feature
+<h2> 👍 The new feedback feature </h2>
 
 <div class="row">
 	<div class="col-md-12">
@@ -33,7 +33,7 @@ We’ll be analysing this to learn more about which studies go smoothly, and whe
 Your feedback is anonymous, and won't be shared with the researcher directly. For now, we just ask you to give us a simple thumbs up / thumbs down at the end of every study. That’s all you need to do!
 
 
-## 🌟 The new participant Star feature
+<h2> 🌟 The new participant Star feature </h2>
 
 Prolific is a platform for real scientific research and our participants take this seriously, often going above and beyond in their diligence when completing studies. This is why we want to give researchers a way to say thanks to the best participants.
 
