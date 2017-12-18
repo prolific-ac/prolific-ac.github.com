@@ -6,6 +6,7 @@ description: ""
 category: 
 tags: [participants, stars, feedback]
 ---
+<p></p>
 
 <font size="+1">
 <p>
@@ -19,8 +20,8 @@ Last month, she got awarded a participant star by one of our researchers, which 
 Chetta has been with us for almost a year, and she loves helping with research. Here’s what she says about herself and her experience on Prolific:
 <p>
 
-Prolific: “Tell us something about yourself?”
-Chetta: “I'm a college grad and I work full time in a management position. I am a parent to 3 kids and grandparent to 6. I love to spend time with my grandkids and I like to travel. My hobbies are my pets (dog, cat, fish, frog), playing video games, going to rock concerts, reading, and cooking. I do a big extended family dinner every Sunday.
+<bProlific:</b>“Tell us something about yourself?”
+<b>hetta: </b> college grad and I work full time in a management position. I am a parent to 3 kids and grandparent to 6. I love to spend time with my grandkids and I like to travel. My hobbies are my pets (dog, cat, fish, frog), playing video games, going to rock concerts, reading, and cooking. I do a big extended family dinner every Sunday.
 
 <div class="row">
 	<div class="col-md-12">
@@ -29,14 +30,14 @@ Chetta: “I'm a college grad and I work full time in a management position. I a
 </div>
 
 <p>
-P: “Where are you based?”
-C: “I live in the USA in Arizona.”
+<b>P:</b> “Where are you based?”
+<b>C:</b> “I live in the USA in Arizona.”
 <p>
-P: “What made you sign up to Prolific?”
-C: “I joined Prolific to help with research really. I did some time in a college lab one semester. I like the psychology surveys best as they really make me think. I will do any surveys that look interesting that will keep me engaged. I like the bonus system as it's a nice extra reward of thanks.”
+<b>P:</b>  “What made you sign up to Prolific?”
+<b>C:</b>“I joined Prolific to help with research really. I did some time in a college lab one semester. I like the psychology surveys best as they really make me think. I will do any surveys that look interesting that will keep me engaged. I like the bonus system as it's a nice extra reward of thanks.”
 <p>
-P: “Anything else you’d like to say?”
-C: “I spend my Prolific money on my grandkids or my pets. Going out for movies and ice cream is a popular request. Other than that I can be found surfing the web, and listening to music.”
+<b>P:</b>  “Anything else you’d like to say?”
+<b>C:</b> “I spend my Prolific money on my grandkids or my pets. Going out for movies and ice cream is a popular request. Other than that I can be found surfing the web, and listening to music.”
 
 <p>
 
