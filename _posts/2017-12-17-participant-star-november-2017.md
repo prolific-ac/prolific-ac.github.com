@@ -12,7 +12,7 @@ tags: [participants, stars, feedback]
 <p>
 We are happy to announce our first participant of the month for November, Chetta Tropiano. She is one of the many participants powering research on Prolific. 
 <p>
-Last month, she got awarded a participant star by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. 
+Last month, she got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/10/26/feedback-and-stars">participant star</a> by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. 
 <p>
 
 
@@ -45,5 +45,5 @@ Chetta has been with us for almost a year, and she loves helping with research. 
 
 <p>
 
-A massive thanks from our team to Chetta and to the many other participants who contribute to the research projects on Prolific every single day. 🙂🙌 
+A massive thanks from our team to Chetta and to the many other participants who contribute to the research projects on Prolific every single day. 🙂 🙌 
 
