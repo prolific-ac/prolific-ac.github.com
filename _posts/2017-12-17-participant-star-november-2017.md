@@ -1,7 +1,7 @@
 ---
-post_author: Jim Moodie
+post_author: Katia Damer
 layout: post
-title: "Participant star of the month: Chetta Tropiano"
+title: "Participant of the month: Chetta Tropiano"
 description: ""
 category: 
 tags: [participants, stars, feedback]
@@ -17,12 +17,12 @@ Last month, she got awarded a participant star by one of our researchers, which 
 
 
 <p>
-Chetta has been with us for almost a year, and she loves helping with research. Here’s what she says about herself and her experience on Prolific:
+Chetta has been with us for almost a year, and she loves helping with research. Here’s what she says about herself and her experience on Prolific.
 <p>
 
-<b>Prolific:</b>“Tell us something about yourself?”
+<b>Prolific:</b> “Tell us something about yourself?”
 <p>
-<b>Chetta: </b> college grad and I work full time in a management position. I am a parent to 3 kids and grandparent to 6. I love to spend time with my grandkids and I like to travel. My hobbies are my pets (dog, cat, fish, frog), playing video games, going to rock concerts, reading, and cooking. I do a big extended family dinner every Sunday.
+<b>Chetta: </b> "I'm a college grad and I work full-time in a management position. I am a parent to 3 kids and grandparent to 6. I love to spend time with my grandkids and I like to travel. My hobbies are my pets (dog, cat, fish, frog), playing video games, going to rock concerts, reading, and cooking. I do a big extended family dinner every Sunday."
 
 <div class="row">
 	<div class="col-md-12">
@@ -30,14 +30,14 @@ Chetta has been with us for almost a year, and she loves helping with research. 
 	 </div>
 </div>
 
-<p>
+<p><br>
 <b>P:</b> “Where are you based?”
 <p>
 <b>C:</b> “I live in the USA in Arizona.”
 <p>
 <b>P:</b>  “What made you sign up to Prolific?”
 <p>
-<b>C:</b>“I joined Prolific to help with research really. I did some time in a college lab one semester. I like the psychology surveys best as they really make me think. I will do any surveys that look interesting that will keep me engaged. I like the bonus system as it's a nice extra reward of thanks.”
+<b>C:</b> “I joined Prolific to help with research really. I did some time in a college lab one semester. I like the psychology surveys best as they really make me think. I will do any surveys that look interesting that will keep me engaged. I like the bonus system as it's a nice extra reward of thanks.”
 <p>
 <b>P:</b>  “Anything else you’d like to say?”
 <p>
