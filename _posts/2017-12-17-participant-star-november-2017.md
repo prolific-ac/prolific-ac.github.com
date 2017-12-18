@@ -20,8 +20,9 @@ Last month, she got awarded a participant star by one of our researchers, which 
 Chetta has been with us for almost a year, and she loves helping with research. Here’s what she says about herself and her experience on Prolific:
 <p>
 
-<bProlific:</b>“Tell us something about yourself?”
-<b>hetta: </b> college grad and I work full time in a management position. I am a parent to 3 kids and grandparent to 6. I love to spend time with my grandkids and I like to travel. My hobbies are my pets (dog, cat, fish, frog), playing video games, going to rock concerts, reading, and cooking. I do a big extended family dinner every Sunday.
+<b>Prolific:</b>“Tell us something about yourself?”
+<p>
+<b>Chetta: </b> college grad and I work full time in a management position. I am a parent to 3 kids and grandparent to 6. I love to spend time with my grandkids and I like to travel. My hobbies are my pets (dog, cat, fish, frog), playing video games, going to rock concerts, reading, and cooking. I do a big extended family dinner every Sunday.
 
 <div class="row">
 	<div class="col-md-12">
@@ -31,12 +32,15 @@ Chetta has been with us for almost a year, and she loves helping with research. 
 
 <p>
 <b>P:</b> “Where are you based?”
+<p>
 <b>C:</b> “I live in the USA in Arizona.”
 <p>
 <b>P:</b>  “What made you sign up to Prolific?”
+<p>
 <b>C:</b>“I joined Prolific to help with research really. I did some time in a college lab one semester. I like the psychology surveys best as they really make me think. I will do any surveys that look interesting that will keep me engaged. I like the bonus system as it's a nice extra reward of thanks.”
 <p>
 <b>P:</b>  “Anything else you’d like to say?”
+<p>
 <b>C:</b> “I spend my Prolific money on my grandkids or my pets. Going out for movies and ice cream is a popular request. Other than that I can be found surfing the web, and listening to music.”
 
 <p>
