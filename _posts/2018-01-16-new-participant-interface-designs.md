@@ -28,7 +28,7 @@ We’re looking to develop prescreening into more of a profile area. It’ll hel
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/np1.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/nps1.png">
 	 </div>
 </div>
 
@@ -40,7 +40,7 @@ We’re making it easier to search the studies available to you, read about them
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/np2.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/nps2.png">
 	 </div>
 </div>
 
@@ -53,7 +53,7 @@ We’re making key information more visible when taking studies, and we’re mak
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/np3.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/nps3.png">
 	 </div>
 </div>
 
@@ -66,7 +66,7 @@ We’re making it easier to keep track of your completed studies and their statu
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/np4.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/nps4.png">
 	 </div>
 </div>
 
@@ -77,7 +77,7 @@ We’ll also be making the site a little easier to use on mobile, although for n
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/np5.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/nps5.png">
 	 </div>
 </div>
 
