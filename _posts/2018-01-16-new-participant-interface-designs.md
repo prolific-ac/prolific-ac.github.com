@@ -18,8 +18,7 @@ Our goals are to make it more reliable and scalable, better organised, easier to
 <p>
 We’ve been working on putting together our new design, here are some examples we can share with you, let us know what you think!
 <p>
-Chetta has been with us for almost a year, and she loves helping with research. Here’s what she says about herself and her experience on Prolific.
-<p>
+
 
 <b>Prescreening</b>
 
