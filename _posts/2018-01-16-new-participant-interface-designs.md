@@ -86,6 +86,7 @@ We’ll also be making the site a little easier to use on mobile, although for n
 <p>
 We’re also planning to add some functional improvements you’ve requested, like instant cash-outs to Paypal.
 
+<p>
 <b>What’s next?</b>
 
 <p>
