@@ -7,8 +7,6 @@ category:
 tags: [participants, design, feedback]
 ---
 <p>
-<h1>“New participant site – we want to hear your thoughts!”</h1>
-</p>
 
 <font size="+1">
 <p>
