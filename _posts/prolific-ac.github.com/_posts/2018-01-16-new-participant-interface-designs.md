@@ -6,9 +6,9 @@ description: ""
 category: 
 tags: [participants, design, feedback]
 ---
-<p><
+<p>
 <h1>“New participant site – we want to hear your thoughts!”</h1>
-/p>
+</p>
 
 <font size="+1">
 <p>
@@ -28,7 +28,7 @@ We’re looking to develop prescreening into more of a profile area. It’ll hel
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/chetta.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/ns1.png">
 	 </div>
 </div>
 
@@ -40,7 +40,7 @@ We’re making it easier to search the studies available to you, read about them
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/chetta.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/ns2.png">
 	 </div>
 </div>
 
@@ -53,7 +53,7 @@ We’re making key information more visible when taking studies, and we’re mak
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/chetta.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/ns3.png">
 	 </div>
 </div>
 
@@ -66,7 +66,7 @@ We’re making it easier to keep track of your completed studies and their statu
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/chetta.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/ns4.png">
 	 </div>
 </div>
 
@@ -77,7 +77,7 @@ We’ll also be making the site a little easier to use on mobile, although for n
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/chetta.png">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/nd5.png">
 	 </div>
 </div>
 
