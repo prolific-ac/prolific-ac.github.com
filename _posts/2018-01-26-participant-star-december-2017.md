@@ -26,7 +26,7 @@ Mike has been with us since back in 2014 in the early days of Prolific. Here’s
 
 <div class="row">
 	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/mike.jpg">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/mike.png">
 	 </div>
 </div>
 
