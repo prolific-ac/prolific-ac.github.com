@@ -10,14 +10,14 @@ tags: [participants, stars, feedback]
 
 <font size="+1">
 <p>
-We are happy to announce our participant of the month for Decmber, Mike Marg. He is one of the many participants powering research on Prolific. 
+We are happy to announce our participant of the month for December, Mike Marg. He is one of the many participants powering research on Prolific. 
 <p>
-Last month, he got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/10/26/feedback-and-stars">participant star</a> by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. This also makes her the lucky winner of a Prolific T-shirt!
+Last month, he got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/10/26/feedback-and-stars">participant star</a> by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. This also makes him the lucky winner of a Prolific T-shirt!
 <p>
 
 
 <p>
-Mike has been with us since back in 2014 in the early days of Prolific. Here’s what he says about herself and his experience on Prolific.
+Mike has been with us since back in 2014, in the early days of Prolific. Here’s what he says about himself and his experience on Prolific.
 <p>
 
 <b>Prolific:</b> “Tell us something about yourself?”
@@ -40,6 +40,7 @@ Mike has been with us since back in 2014 in the early days of Prolific. Here’s
 <b>M:</b> "When I left the 70 hours a week computer world in 2013/2014 I searched for ways to continue to earn some side cash to supplement my income as a fresh musician.  I was doing some small tasks here and there on Mechanical Turk and remember seeing the launch for Prolific being tossed around the Internet."
 <p>
 <b>P:</b> “What feature would you most like Prolific to implement?”
+<p>	
 <b>M:</b> "A small but possibly useful one – an automatically generated monthly/yearly earnings would be nice to see.  Aside from that, I’m quite pleased with how Prolific has developed over the years."
 <p>
 <b>P:</b>  “Anything else you’d like to say?”
