@@ -15,6 +15,14 @@ The first most important change is that we’ll be combining our referral scheme
 <p>
 
 The other important change is that instead of receiving coupons (which give a discount on our fees) you’ll now simply have your Prolific account credited with a cash-bonus which can be used for future studies or simply cashed-out.
+
+<p>
+  <div class="row">
+	<div class="col-md-12">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/lego-crowd.jpg">
+	 </div>
+</div>
+
 <p>
 If a researcher uses your referral code when they register we will credit your accounts with 10% (5% each) of the value of their first study. e.g. if your colleague runs a study worth £1,000 we will split £100 between you as a bonus*. This bonus will be added to your balance and can be used to recruit future participants.
 
