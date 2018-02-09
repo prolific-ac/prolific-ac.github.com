@@ -23,7 +23,9 @@ If you refer a participant we will credit your account with 10% of the value of 
 
 <p>
 P.S. 
+<p>
 * There's a maximum bonus of £250 per researcher referral
+<p>
 ** There’s a maximum bonus of £5 per participant referral
 
 <p>
