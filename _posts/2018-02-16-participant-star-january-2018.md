@@ -22,8 +22,7 @@ Hollie joined us in 2017. Here’s what she says about herself and her experienc
 
 <b>Prolific:</b> “Tell us something about yourself?”
 <p>
-<b>Hollie: </b> "I work in Accounts Monday to Friday and in my spare time my hobbies are ice-skating, Munzee, and Geocaching, and trying to earn a bit of money online to go towards my wedding next year! 
-"
+<b>Hollie: </b> "I work in Accounts Monday to Friday and in my spare time my hobbies are ice-skating, Munzee, and Geocaching, and trying to earn a bit of money online to go towards my wedding next year!"
 
 <div class="row">
 	<div class="col-md-12">
@@ -42,7 +41,7 @@ Hollie joined us in 2017. Here’s what she says about herself and her experienc
 <p>
 <b>P:</b>  “What study has been your favourite study so far (if any)?”
 <p>
-<b>H:</b> "One of my favourite studies involved using the internet to find different URL's for good quality animal images. It sounds simple but it was quite fun as it wasn't your typical study and it was also my first ever study I completed on Prolific. "
+<b>H:</b> "One of my favourite studies involved using the internet to find different URL's for good quality animal images. It sounds simple but it was quite fun as it wasn't your typical study and it was also my first ever study I completed on Prolific."
 <p>
 <b>P:</b> “What feature would you most like Prolific to implement?”
 <p>	
