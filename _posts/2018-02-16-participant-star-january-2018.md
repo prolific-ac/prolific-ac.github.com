@@ -1,7 +1,7 @@
 ---
 post_author: Jim Moodie
 layout: post
-title: "Participant of the month: Mike Marg"
+title: "Participant of the month: Hollie Phillips"
 description: ""
 category: 
 tags: [participants, stars, feedback]
@@ -10,9 +10,9 @@ tags: [participants, stars, feedback]
 
 <font size="+1">
 <p>
-We are happy to announce our participant of the month for December, Mike Marg. He is one of the many participants powering research on Prolific. 
+We are happy to announce our participant of the month for December, Hollie Phillips. She is one of the many participants powering research on Prolific. 
 <p>
-Last month, he got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/10/26/feedback-and-stars">participant star</a> by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. This also makes him the lucky winner of a Prolific T-shirt!
+Last month, she got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/10/26/feedback-and-stars">participant star</a> by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. This also makes him the lucky winner of a Prolific T-shirt!
 <p>
 
 
