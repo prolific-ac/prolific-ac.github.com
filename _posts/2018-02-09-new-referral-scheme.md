@@ -37,6 +37,5 @@ P.S.
 ** There’s a maximum bonus of £5 per participant referral
 
 <p>
-We’ll soon be publishing some guidelines about best practice for referrals and promoting Prolific.
-
-<p>
+<p><a href="http://help.prolific.ac/top-ups-payments-refunds/referrals">Referrals guide for Researcher accounts </a>	
+<p><a href="https://support.prolific.ac/article/79-referrals">Referrals guide for Participant accounts </a>
