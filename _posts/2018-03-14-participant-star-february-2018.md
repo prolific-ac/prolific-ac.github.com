@@ -1,7 +1,7 @@
 ---
 post_author: Jim Moodie
 layout: post
-title: "Participant of the month: Nate"
+title: "Participant of the month: Nate Lakritz"
 description: ""
 category: 
 tags: [participants, stars, feedback]
