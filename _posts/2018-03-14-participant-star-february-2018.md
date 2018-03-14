@@ -10,7 +10,7 @@ tags: [participants, stars, feedback]
 
 <font size="+1">
 <p>
-We are happy to announce our participant of the month for January, Nate. He is one of the many participants powering research on Prolific. 
+We are happy to announce our participant of the month for February, Nate. He is one of the many participants powering research on Prolific. 
 <p>
 Last month, he got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/10/26/feedback-and-stars">participant star</a> by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. This also makes her the lucky winner of a Prolific T-shirt!
 <p>
