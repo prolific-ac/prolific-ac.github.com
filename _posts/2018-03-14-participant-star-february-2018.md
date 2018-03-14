@@ -12,7 +12,7 @@ tags: [participants, stars, feedback]
 <p>
 We are happy to announce our participant of the month for February, Nate. He is one of the many participants powering research on Prolific. 
 <p>
-Last month, he got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/10/26/feedback-and-stars">participant star</a> by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. This also makes her the lucky winner of a Prolific T-shirt!
+Last month, he got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/10/26/feedback-and-stars">participant star</a> by one of our researchers, which is simply a way to say thank you for especially thorough and thoughtful contributions. This also makes him the lucky winner of a Prolific T-shirt!
 <p>
 
 
@@ -47,6 +47,7 @@ Nate joined us all the way back in 2015. Here’s what he says about himself and
 <b>P:</b> “What feature would you most like Prolific to implement?”
 <p>	
 <b>N:</b> "A mobile app would be awesome, but that might be a long-term goal."
+<p>
 <b>P:</b> “Anything else you'd like to say?”
 <p>	
 <b>N:</b> "Thanks for featuring me on the blog, and good luck to all the other Prolific participants!"
