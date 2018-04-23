@@ -45,7 +45,7 @@ Aaron joined us back in 2016. Here’s what he says about himself and his experi
 <p>
 <b>P:</b> “Anything else you'd like to say?”
 <p>	
-<b>A:</b> " really enjoy being a part of the Prolific AC platform; It's a great way to voice your opinion, or to provide data that could potentially benefit society as a whole."
+<b>A:</b> "I really enjoy being a part of the Prolific AC platform; It's a great way to voice your opinion, or to provide data that could potentially benefit society as a whole."
 <p>
 <p>
 
