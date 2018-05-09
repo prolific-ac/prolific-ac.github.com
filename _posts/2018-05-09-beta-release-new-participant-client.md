@@ -1,11 +1,10 @@
-
 ---
 post_author: Jim Moodie
 layout: post
-title: "Beta release of new participant client"
+title: "Beta release of new paticipant website"
 description: ""
 category: 
-tags: [participants, platform, beta]
+tags: [participants, beta, platform]
 ---
 <p></p>
 
