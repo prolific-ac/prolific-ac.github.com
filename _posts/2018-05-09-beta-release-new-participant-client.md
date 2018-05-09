@@ -1,7 +1,7 @@
 ---
 post_author: Jim Moodie
 layout: post
-title: "Beta release of new paticipant website"
+title: "Beta release of new participant website"
 description: ""
 category: 
 tags: [participants, beta, platform]
@@ -15,7 +15,6 @@ You’ll remember that earlier this year we asked for <a href="http://blog.proli
 We plan to gradually make this accessible to an increasing number of users. You should soon receive an email letting you know that you have access to the new Beta version of the site. We’d love to hear any feedback on how you find it, and whether it's clear how to do everything.
 
 <p>
-We’ll also be making a number of changes related to improved privacy controls, which you’ll more about in further communication.
 You’ll notice a number of differences, including a completely updated “About You” section for prescreening questions, and also a new Reservation feature to let you reserve your place in a study and still have time to read the description and instructions carefully and make sure you are ready before starting.
 
 <div class="row">
@@ -32,14 +31,14 @@ There are a  couple areas you should be aware of where existing functionality wi
 
 <ul>
 
-<li>Due to changes in the way Facebook authentication works, we’re removing the Facebook login for the new platform. If you’ve been using this method, you’ll need to update your password. If you have any problems doing this you can contact our <a href="mailto:support@prolific.ac">support/<a>.
+<li>Due to changes in the way Facebook authentication works, we’re removing the Facebook login for the new platform. If you’ve been using this method, you’ll need to update your password. If you have any problems doing this you can contact our <a href="mailto:support@prolific.ac">support</a>.
 
 <li>We’re aware that some users like to use study notifier plugins. These are not developed by Prolific and therefore we can’t guarantee they will work with the new site.
 
 </ul>
 
 <p>
-You will still be able to access the current version of the site (via the legacy link) if you run into anything you can't do on the new version. We’d appreciate it if you’d report any issues to us via <a href="mailto:support@prolific.ac">support/<a>.
+You will still be able to access the current version of the site (via the legacy link) if you run into anything you can't do on the new version. We’d appreciate it if you’d report any issues to us via <a href="mailto:support@prolific.ac">support</a>.
 
 
 <p>
