@@ -31,11 +31,11 @@ There are a  couple areas you should be aware of where existing functionality wi
 
 <ul>
 
-<li>Due to changes in the way Facebook authentication works, we’re removing the Facebook login for the new platform. If you’ve been using this method, you’ll need to update your password. If you have any problems doing this you can contact our <a href="mailto:support@prolific.ac">support</a>.
+<li>Due to changes in the way Facebook authentication works, we’re removing the Facebook login for the new platform. If you’ve been using this method, you may need to update your password to log in direct to Prolific. If you have any problems doing this you can contact our <a href="mailto:support@prolific.ac">support</a>.
 
 <li>We’re aware that some users like to use study notifier plugins. These are not developed by Prolific and therefore we can’t guarantee they will work with the new site.
 
-</ul>
+
 
 <p>
 You will still be able to access the current version of the site (via the legacy link) if you run into anything you can't do on the new version. We’d appreciate it if you’d report any issues to us via <a href="mailto:support@prolific.ac">support</a>.
