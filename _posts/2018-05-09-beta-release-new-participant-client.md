@@ -47,4 +47,4 @@ Only once we’re happy that the site is stable and working for everyone we’ll
 
 <p>
 
-This is just the beginning of the improvements you will see, we many planned new features and improvements in the future. 🙂 🙌 
+This is just the beginning of the improvements you will see, we have many planned new features and improvements in the future. 🙂 🙌 
