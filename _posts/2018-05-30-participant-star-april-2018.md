@@ -17,7 +17,7 @@ Last month, she got awarded a  <a href="http://blog.prolificacademic.co.uk/2017/
 
 
 <p>
-jordan joined us last year, 2018. Here’s what he says about himself and his experience on Prolific. He's on the left in the photo below.
+Jordan joined us last year, 2018. Here’s what she says about herself and her experience on Prolific.
 <p>
 
 <b>Prolific:</b> “Tell us something about yourself?”
@@ -53,4 +53,4 @@ jordan joined us last year, 2018. Here’s what he says about himself and his ex
 <p>
 <p>
 
-A massive thanks from our team to jordan and to the many other participants who contribute to the research projects on Prolific every single day. 🙂 🙌 
+A massive thanks from our team to Jordan and to the many other participants who contribute to the research projects on Prolific every single day. 🙂 🙌 
