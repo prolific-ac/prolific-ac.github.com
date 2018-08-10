@@ -1,9 +1,4 @@
 
-<div class="row">
-	<div class="col-md-12">
- 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/programming.jpg">
-	 </div>
-</div>
 ---
 post_author: Phelim Bradley
 layout: post
@@ -13,6 +8,11 @@ category:
 tags: [mturk, bots, data quality]
 ---
 
+<div class="row">
+	<div class="col-md-12">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/programming.jpg">
+	 </div>
+</div>
 
 <font size="+1">
 <br>
