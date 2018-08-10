@@ -6,6 +6,13 @@ description: ""
 category: 
 tags: [mturk, bots, data quality]
 ---
+
+<div class="row">
+	<div class="col-md-12">
+ 		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/programming.jpg">
+	 </div>
+</div>
+
 <font size="+1">
 
 <p>Recently, researchers using Amazon Mechanical Turk to collect data for their studies found large numbers of bot-like responses in their data from workers with very similar geoIP co-ordinates. You can read more about this <a href="https://www.maxhuibai.com/blog/evidence-that-responses-from-repeating-gps-are-random">here</a>, and in many other forums and mailing lists.</p>
