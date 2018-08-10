@@ -36,8 +36,8 @@ tags: [mturk, bots, data quality]
 <li> We limit to the number of accounts that can use the same IP address and the machine to prevent duplicate accounts.</li>
 <li> We limit the number of unique IPs per "HIT" (study).</li>
 <li> PayPal and Circle accounts for getting paid must be unique to a participant account. This means that in order to have 2 participant accounts that get paid, you would also need to have 2 PayPal accounts. PayPal and Circle also have steps to prevent duplicate accounts.</li>
-<li> We take any data-quality reports very seriously and whenever researchers have suspicions about accounts they can report the relevant participant IDs to us we investigate the individual accounts as well as any shared patterns between them.</li>
-<li> We analyse our internal data to monitor for unusual usage patterns, and and data reports from researchers.</li>
+<li> We take any data quality reports very seriously and whenever researchers have suspicions about accounts they can report the relevant participant IDs to us we investigate the individual accounts as well as any shared patterns between them.</li>
+<li> We analyse our internal data to monitor for unusual usage patterns, and data reports from researchers.</li>
 </ol>
 
 <p>Unlike Mturk, Prolific is dedicated to empowering great research, so data quality is our top priority. We have extensive quality checks to make sure our participants are trustworthy, attentive, engaged, and where possible, <a target="_blank" href="https://link.springer.com/article/10.3758/s13428-013-0365-7">naïve</a>. And we are continuing to improve these features all the time.</p>
