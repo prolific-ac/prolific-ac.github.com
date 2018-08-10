@@ -6,15 +6,16 @@ description: ""
 category: 
 tags: [mturk, bots, data quality]
 ---
+<p></p>
 
+
+<font size="+1">
+<br>
 <div class="row">
 	<div class="col-md-12">
  		<img class="img-responsive col-md-14" style="display: block;margin-left: auto;margin-right: auto;margin-top:40px;margin-bottom:15px;" src="/assets/img/programming.jpg">
 	 </div>
 </div>
-
-<font size="+1">
-<br>
 <p>Recently, researchers using Amazon Mechanical Turk to collect data for their studies found large numbers of bot-like responses in their data from workers with very similar geoIP co-ordinates. You can read more about this <a target="_blank" href="https://www.maxhuibai.com/blog/evidence-that-responses-from-repeating-gps-are-random">here</a>, and in many other forums and mailing lists.</p>
 
 <p><a target="_blank" href="https://twitter.com/kgweisman/status/1027567993658720257">Some have reported</a> that the "bots" may be able to pass a range of different attention checks. Our assessment of the reports coming from MTurk is that these accounts are more likely to be bot-assisted humans (or human-assisted bots?), rather than bots with sufficient AI to pass attention checks. Is also seems possible they are using VPNs to hide their true location.</p>
