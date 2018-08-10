@@ -1,7 +1,7 @@
 ---
 post_author: Phelim Bradley
 layout: post
-title: "Bots and data-quality on crowdsourcing platforms"
+title: "Bots and data quality on crowdsourcing platforms"
 description: ""
 category: 
 tags: [mturk, bots, data quality]
