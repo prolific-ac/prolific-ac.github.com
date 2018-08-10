@@ -1,15 +1,11 @@
-# data quality blog
-
-----------
-
-post_author: Phelim Bradley
+---
+post_author: Jim Moodie
 layout: post
-title: "Bots and data-quality on crowdsourcing platforms"
+title: "Participant of the month: Jordan Maska"
 description: ""
-category:
-
-## tags: [mturk, bots, data quality]
-## Bots on Amazon's Mechanical Turk?
+category: 
+tags: [participants, stars, feedback]
+---
 
 Recently, researchers using Amazon Mechanical Turk to collect data for their studies found large numbers of bot-like responses in their data from workers with very similar geoIP co-ordinates. You can read more about this [here](https://www.maxhuibai.com/blog/evidence-that-responses-from-repeating-gps-are-random), and in many other forums and mailing lists.
 
