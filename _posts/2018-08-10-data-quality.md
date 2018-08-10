@@ -25,7 +25,7 @@ tags: [mturk, bots, data quality]
 
 <p>However, the particular signature of "88639831" after the latitude decimal point seems to be informative (from the data of the linked blog post above), and may be a signature of a particular VPN these bot-like accounts are using. Based on our own analysis it does seem like VPNs seem more likely to give these repeated geoIP locations, although that still doesn’t guarantee that these are bots. </p>
 
-## Data quality at Prolific
+<h2>Data quality at Prolific</h2>
 
 <p>In case there are concerns about this being an issue beyond Mturk: <em>We have not seen evidence of similar bot-like accounts on Prolific</em>. We have several processes in place to prevent these types of accounts. These include (but are not limited to) the following:</p>
 
