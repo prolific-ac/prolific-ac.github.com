@@ -1,4 +1,3 @@
-
 ---
 post_author: Phelim Bradley
 layout: post
