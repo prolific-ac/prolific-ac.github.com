@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [participants, design, feedback]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/new-participant-site-we-want-to-hear-your-thoughts/
 ---
 <p>
 

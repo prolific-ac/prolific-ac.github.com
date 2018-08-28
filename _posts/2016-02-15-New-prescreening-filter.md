@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [participants, naivete, crowdsourcing, prescreening]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/new-prescreening-filter-naive-vs-experienced-participants-untitled/
 ---
 {% include JB/setup %}
 

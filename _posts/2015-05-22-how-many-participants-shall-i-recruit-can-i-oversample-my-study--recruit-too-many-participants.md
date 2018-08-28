@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [study, sample size, statistical power]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/how-many-participants-shall-i-recruit-can-i-oversample-my-study/
 ---
 {% include JB/setup %}
 <p></p>

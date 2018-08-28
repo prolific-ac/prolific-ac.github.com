@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [participants, stars, feedback]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/participant-of-the-month-hollie-phillips/
 ---
 <p></p>
 

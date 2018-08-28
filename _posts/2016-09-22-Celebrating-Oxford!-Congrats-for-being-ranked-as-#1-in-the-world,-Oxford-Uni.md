@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [Oxford, congrats, research, community]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/celebrating-our-oxford-community-congrats-for-being-ranked-as-1-in-the-world-oxford-uni-and-we-have-big-plans-for-prolific-stay-tuned/
 ---
 {% include JB/setup %}
 <div class="row">

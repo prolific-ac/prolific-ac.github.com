@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [participants, stars, feedback]
 redirect_to:
-  - https://blog.prolific.ac/new-referral-scheme/
+  - https://blog.prolific.ac/feedback-stars/
 ---
 
 <font size="+1">

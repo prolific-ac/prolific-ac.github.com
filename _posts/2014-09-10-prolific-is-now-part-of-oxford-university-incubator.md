@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [Oxford, incubator]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/prolific-is-now-part-of-oxford-university-incubator/
 ---
 {% include JB/setup %}
 
