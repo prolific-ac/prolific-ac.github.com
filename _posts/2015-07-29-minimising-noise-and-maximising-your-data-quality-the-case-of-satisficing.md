@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [data quality, satisficing, attention]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/minimising-noise-and-maximising-your-data-quality-the-case-of-satisficing/
 ---
 {% include JB/setup %}
 

@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [science, research, crowdsourcing, internet, zombie science, halloween]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/do-not-fear-zombie-scientists-and-their-zombie-papers/
 ---
 {% include JB/setup %}
 

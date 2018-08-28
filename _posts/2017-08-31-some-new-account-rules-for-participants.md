@@ -1,4 +1,12 @@
-
+---
+post_author: Phelim Bradley
+layout: post
+title: "New Account Rules"
+description: ""
+category: 
+redirect_to:
+  - https://blog.prolific.ac/some-new-account-rules-for-participants/
+---
 
 <br>
 <p><font size="4"></font></p>

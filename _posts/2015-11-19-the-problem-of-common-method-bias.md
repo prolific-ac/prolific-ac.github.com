@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [Method bias]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/the-problem-of-common-method-bias/
 ---
 {% include JB/setup %}
 

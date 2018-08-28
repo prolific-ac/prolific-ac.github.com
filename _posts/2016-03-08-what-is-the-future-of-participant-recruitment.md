@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [participants, recruitment, research, interview]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/what-is-the-future-of-participant-recruitment-a-user-interview-with-researchers-from-university-college-london/
 ---
 {% include JB/setup %}
 <div class="row">

@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [crowdsourcing, science, research]
 redirect_to:
-  - https://blog.prolific.ac/
+  - https://blog.prolific.ac/a-crowdsourcing-platform-designed-for-scientific-research/
 ---
 {% include JB/setup %}
 
