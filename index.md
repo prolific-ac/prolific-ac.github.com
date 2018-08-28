@@ -8,6 +8,7 @@ title: The Prolific Academic Blog
 	<div class="col-md-8 col-md-offset-2">
     <div class="page-header">
         <h1 style="font-family: 'Century Gothic'">The Prolific Academic Blog</h1>
+        <h2>Our blog has a new home: <a href="https://blog.prolific.ac">"https://blog.prolific.ac"</a> </h2>
     </div>
         <!--Blog Post-->    
         {% for post in site.posts %}
