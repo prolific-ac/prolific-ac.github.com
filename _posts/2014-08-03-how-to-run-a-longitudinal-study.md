@@ -5,6 +5,8 @@ title: "Running a longitudinal study"
 description: ""
 category: 
 tags: [longitudinal,study,documentation]
+redirect_to:
+  - http://help.prolific.ac/creating-longitudinal-studies/can-i-run-a-longitudinal-study
 ---
 {% include JB/setup %}
 

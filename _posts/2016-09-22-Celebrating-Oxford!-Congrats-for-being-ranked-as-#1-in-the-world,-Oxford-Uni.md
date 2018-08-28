@@ -5,6 +5,8 @@ title: "Celebrating our Oxford community! Congrats for being ranked as #1 in the
 description: ""
 category: 
 tags: [Oxford, congrats, research, community]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 <div class="row">

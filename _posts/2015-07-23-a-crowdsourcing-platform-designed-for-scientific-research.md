@@ -5,6 +5,8 @@ title: "A Crowdsourcing Platform Designed for Scientific Research"
 description: ""
 category: 
 tags: [crowdsourcing, science, research]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

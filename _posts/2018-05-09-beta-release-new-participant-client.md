@@ -5,6 +5,8 @@ title: "Beta release of new participant website"
 description: ""
 category: 
 tags: [participants, beta, platform]
+redirect_to:
+  - https://blog.prolific.ac/beta-release-of-new-participant-website/
 ---
 <p></p>
 

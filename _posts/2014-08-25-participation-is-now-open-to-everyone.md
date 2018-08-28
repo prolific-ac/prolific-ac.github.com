@@ -5,6 +5,8 @@ title: "Participation in Prolific studies is now open to everyone."
 description: ""
 category: 
 tags: []
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

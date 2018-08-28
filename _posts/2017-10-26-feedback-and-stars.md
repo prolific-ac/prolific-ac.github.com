@@ -5,6 +5,8 @@ title: "Feedback & Stars"
 description: ""
 category: 
 tags: [participants, stars, feedback]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 
 <font size="+1">

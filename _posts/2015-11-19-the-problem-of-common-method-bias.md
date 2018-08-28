@@ -5,6 +5,8 @@ title: "The Problem of Common Method Bias"
 description: ""
 category: 
 tags: [Method bias]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

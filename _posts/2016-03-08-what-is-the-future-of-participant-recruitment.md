@@ -5,6 +5,8 @@ title: "What is the future of participant recruitment? <br> A user interview wit
 description: ""
 category: 
 tags: [participants, recruitment, research, interview]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 <div class="row">

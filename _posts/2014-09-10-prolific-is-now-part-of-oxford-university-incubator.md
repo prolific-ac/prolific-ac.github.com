@@ -5,6 +5,8 @@ title: "Prolific is now part of Oxford University Incubator"
 description: ""
 category: 
 tags: [Oxford, incubator]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

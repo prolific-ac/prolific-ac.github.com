@@ -5,6 +5,8 @@ title: "Participant of the month: Mike Marg"
 description: ""
 category: 
 tags: [participants, stars, feedback]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 <p></p>
 

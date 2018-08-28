@@ -5,6 +5,8 @@ title: "Are you a British employee? <br> Donate 5 minutes to help science and a 
 description: ""
 category: 
 tags: [science, charity, crowdsourcing, society]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

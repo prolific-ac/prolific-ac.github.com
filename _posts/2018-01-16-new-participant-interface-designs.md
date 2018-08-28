@@ -5,6 +5,8 @@ title: "New participant site – we want to hear your thoughts!"
 description: ""
 category: 
 tags: [participants, design, feedback]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 <p>
 

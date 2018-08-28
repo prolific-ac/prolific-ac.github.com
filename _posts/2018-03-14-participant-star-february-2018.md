@@ -5,6 +5,8 @@ title: "Participant of the month: Nate Lakritz"
 description: ""
 category: 
 tags: [participants, stars, feedback]
+redirect_to:
+  - https://blog.prolific.ac/participant-of-the-month-nate-lakritz/
 ---
 <p></p>
 

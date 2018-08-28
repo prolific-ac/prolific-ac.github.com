@@ -5,6 +5,8 @@ title: "Do not fear zombie scientists and their zombie papers"
 description: ""
 category: 
 tags: [science, research, crowdsourcing, internet, zombie science, halloween]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

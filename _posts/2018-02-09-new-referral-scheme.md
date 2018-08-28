@@ -5,6 +5,8 @@ title: "New Referral Scheme"
 description: ""
 category: 
 tags: [referrals, researchers, participants]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 
 <font size="+1">

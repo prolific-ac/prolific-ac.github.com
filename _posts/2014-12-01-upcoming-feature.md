@@ -5,6 +5,8 @@ title: "Upcoming feature: Flexible Prescreening"
 description: ""
 category: 
 tags: [efficient, prescreening, documentation]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

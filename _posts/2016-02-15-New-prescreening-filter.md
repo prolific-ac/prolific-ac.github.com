@@ -5,6 +5,8 @@ title: "New prescreening filter: naïve vs. experienced participants"
 description: ""
 category: 
 tags: [participants, naivete, crowdsourcing, prescreening]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

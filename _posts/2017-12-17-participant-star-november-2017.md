@@ -5,6 +5,8 @@ title: "Participant of the month: Chetta Tropiano"
 description: ""
 category: 
 tags: [participants, stars, feedback]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 <p></p>
 

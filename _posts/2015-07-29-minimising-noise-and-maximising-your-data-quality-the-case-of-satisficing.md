@@ -5,6 +5,8 @@ title: "Minimising Noise and Maximising Your Data Quality: The Case of Satisfici
 description: ""
 category: 
 tags: [data quality, satisficing, attention]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 

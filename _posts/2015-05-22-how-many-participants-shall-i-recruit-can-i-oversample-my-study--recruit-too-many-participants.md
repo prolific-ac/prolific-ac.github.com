@@ -5,6 +5,8 @@ title: "How many participants shall I recruit? Can I “oversample” my study?"
 description: ""
 category: 
 tags: [study, sample size, statistical power]
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 {% include JB/setup %}
 <p></p>
