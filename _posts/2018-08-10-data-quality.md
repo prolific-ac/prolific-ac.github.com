@@ -6,7 +6,7 @@ description: ""
 category: 
 tags: [mturk, bots, data quality]
 redirect_to:
-  - https://blog.prolific.ac/how-to-improve-your-data-quality/
+  - https://blog.prolific.ac/bots-and-data-quality-on-crowdsourcing-platforms/
 ---
 <p></p>
 
