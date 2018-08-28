@@ -5,6 +5,8 @@ title: "Bots and data quality on crowdsourcing platforms"
 description: ""
 category: 
 tags: [mturk, bots, data quality]
+redirect_to:
+  - https://blog.prolific.ac/how-to-improve-your-data-quality/
 ---
 <p></p>
 
