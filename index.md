@@ -1,6 +1,8 @@
 ---
 layout: page
 title: The Prolific Academic Blog
+redirect_to:
+  - https://blog.prolific.ac/
 ---
 <!-- <div class="container content">		 -->
 <div class="row">    
